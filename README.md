@@ -2,7 +2,7 @@
 # EBOOK | VERTENTE NEURODIVERGENTE ;)
 
 ## 📒 Descrição
-Trata-se de um Ebook qu visa orientar melhores práticas para pessoas neurodivergentes, em especial pessoas com TDAH no ambiente corporativo. Práticas realizadas atualmente por mim para conseguir me adequar às necessidades cotidianas. 
+Trata-se de um Ebook qu visa orientar melhores práticas para pessoas neurodivergentes, em especial pessoas com TDAH no ambiente corporativo. Práticas realizadas atualmente por mim para conseguir me adequar às necessidades cotidianas como aumentar o foco e produtividade. 
 
 ## 🤖 Tecnologias Utilizadas
 - CHAT GPT - (Geração do roteiro e aprimoramento do conteúdo);
